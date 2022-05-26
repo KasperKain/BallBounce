@@ -5,6 +5,7 @@ const Ball_Gravity = 1;
 const Balls_On_Screen = 21;
 
 //#region -- Canvas Setup
+//----------------
 
 var canvas = document.querySelector("canvas");
 var canvasWidth = (canvas.width = window.innerWidth);
